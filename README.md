@@ -1,0 +1,2 @@
+# Padrao-Adpter
+Adapter pattern
